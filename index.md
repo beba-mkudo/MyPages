@@ -1,2 +1,3 @@
 # SamplePages
-ホームページ
+こんにちは
+![企業ロゴ](./logo.png)
